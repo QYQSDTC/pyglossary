@@ -1,0 +1,28 @@
+BeautifulSoup.dammit.EntitySubstitution.substitute_xml(text, True)
+
+BeautifulSoup.Tag(name="h1")
+
+
+BeautifulSoup.BeautifulSoup(text, "lxml", from_encoding="utf-8")
+BeautifulSoup.BeautifulSoup(text, "lxml", from_encoding="utf-8").text
+BeautifulSoup.BeautifulSoup(text, "lxml", from_encoding="utf-8").get_text(strip=True)
+
+BeautifulSoup.BeautifulSoup(
+	copyright,
+	"lxml"
+).text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
